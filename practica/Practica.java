@@ -23,7 +23,6 @@ public class Practica {
             System.out.println("2- Reportar horas extra que trabajó el empleado");
             System.out.println("3- Contactar Representante del cliente");
             System.out.println("4- Solicitar Información del cliente");
-            System.out.println("5- Nuevo");
             System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 
             option = scanner.nextInt();
